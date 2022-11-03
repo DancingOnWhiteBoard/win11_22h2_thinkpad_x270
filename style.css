@@ -4,3 +4,13 @@ img{
     width:300px;
     height:auto;
 }
+
+.red{
+    color:red;
+}
+
+h1{
+    border:solid 3px;
+    background-color: burlywood;
+}
+
