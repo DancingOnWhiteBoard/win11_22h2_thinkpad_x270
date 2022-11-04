@@ -14,11 +14,14 @@ h1{
     border:solid 3px;
     background-color: burlywood;
     padding:3%;
+    border-radius: 30px;
 }
 
 h2{
     border: solid 2px;
     border-radius: 10px;
+    padding: 5px;
+    background-color: gainsboro;
 }
 
 .cancel{
@@ -27,4 +30,6 @@ h2{
 
 p{
     background-color: papayawhip;
+    font-size: 110%;
+    padding: 5px;
 }
