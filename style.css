@@ -16,3 +16,9 @@ h1{
     padding:3%;
 }
 
+.cancel{
+    text-decoration: double;
+    text-decoration-color:blue ;
+    text-decoration-thickness: 5px;
+}
+
