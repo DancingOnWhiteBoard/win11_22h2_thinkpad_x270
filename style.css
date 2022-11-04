@@ -17,8 +17,6 @@ h1{
 }
 
 .cancel{
-    text-decoration-style: double;
-    text-decoration-color:blue ;
-    text-decoration-thickness: 5px;
+    text-decoration:line-through 4px solid;
 }
 
